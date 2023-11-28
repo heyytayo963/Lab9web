@@ -1,4 +1,5 @@
 # php requiare
+![image](https://github.com/heyytayo963/Lab9web/blob/main/IMG-20231128-WA0043.jpg)
 - header.php
 ```
 <!DOCTYPE html>
